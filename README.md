@@ -3,7 +3,7 @@
   <!-- PASTEL PIXEL ART GIRL WITH LAPTOP GIF -->
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWVub2U3b3U4NDd0bzdtbnd6Zml6aDNsaHltMDRwNmxqZ2R3enplYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svvIWwpVYz/giphy.gif" width="380" alt="Pixel Anime Girl Coding Pastel">
   
-  # Hi, I'm Emily! ✨🐾
+  # Hi, I'm Emily! ✨
   ### 🌸 *Information Systems Engineering Student | Java Developer* 💻
 </div>
 
