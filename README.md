@@ -1,4 +1,5 @@
-#eemmaay1221# Hello World, I'm Emily, be very welcome! ✨ 🌸
+#eemmaay1221#
+# Hello World, I'm Emily, be very welcome! ✨ 🌸
 
 <!-- SECCIÓN DE ESTADÍSTICAS LADO A LADO -->
 <p align="center">
@@ -47,4 +48,3 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-db03a180-a547-11eb-85c3-b3d358caffdb.gif" width="100%" alt="Coding Cat Banner">
 </p>
- 
