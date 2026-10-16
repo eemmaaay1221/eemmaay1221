@@ -1,18 +1,18 @@
 #eemmaay1221
 <div align="center">
-  <!-- PIXEL ART GIRL CODING GIF (Pastel Theme) -->
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" alt="Cute Pixel Art Coding Girl">
+  <!-- PASTEL PIXEL ART GIRL WITH LAPTOP GIF -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWVub2U3b3U4NDd0bzdtbnd6Zml6aDNsaHltMDRwNmxqZ2R3enplYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svvIWwpVYz/giphy.gif" width="380" alt="Pixel Anime Girl Coding Pastel">
   
   # Hi, I'm Emily! ✨🐾
-  ### *Information Systems Engineering Student | Java Developer & Tech Enthusiast* 💻🌸
+  ### 🌸 *Information Systems Engineering Student | Java Developer* 💻
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db03a180-a547-11eb-85c3-b3d358caffdb.gif" width="100%">
 
 ### 🌷 About Me
-- 📚 Currently in my 4th semester at **Universidad Central del Ecuador**[cite: 2].
-- ☕ Passionate about building software solutions, programming in **Java**, exploring networks, and turning ideas into code.
-- 🎨 I love combining technology, hardware, and creative design in every project I build.
+- 📚 Currently in my 4th semester studying **Information Systems Engineering** at **Universidad Central del Ecuador**.
+- ☕ Passionate about building software solutions, object-oriented programming with **Java**, exploring network security, and turning ideas into code.
+- 🎨 I love combining technology, hardware, creative design, and cute aesthetics in every project I build.
 
 ---
 
@@ -25,11 +25,11 @@
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db03a180-a547-11eb-85c3-b3d358caffdb.gif" width="100%">
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eemmaaay1221&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eemmaaay1221&show_icons=true&theme=rose_pine&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 ---
@@ -44,7 +44,8 @@
   </a>
 </div>
 
+<br>
+
 <div align="center">
-  <br>
-  <i>"Do everything with love, code, and a touch of patience 💖"</i>
+  <i>"Do everything with love, code, and a touch of magic 💖✨"</i>
 </div>
