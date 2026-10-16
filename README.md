@@ -1,28 +1,28 @@
 #eemmaay1221
 <div align="center">
-  <!-- CUTE ANIMATED CAT -->
-  <img src="https://media.giphy.com/media/JpG2A9MCEdPHnHIC51/giphy.gif" width="200" alt="Cute Cat GIF">
+  <!-- PIXEL ART GIRL CODING GIF (Pastel Theme) -->
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" alt="Cute Pixel Art Coding Girl">
   
   # Hi, I'm Emily! ✨🐾
-  ### *Information Systems Engineering Student | Code Enthusiast * 💻🌸
+  ### *Information Systems Engineering Student | Java Developer & Tech Enthusiast* 💻🌸
 </div>
 
 ---
 
 ### 🌷 About Me
-- 📚 Currently in my 4th semester at **Universidad Central del Ecuador**.
-- ☕ Passionate about building software solutions, exploring networks, and turning ideas into code.
+- 📚 Currently in my 4th semester at **Universidad Central del Ecuador**[cite: 2].
+- ☕ Passionate about building software solutions, programming in **Java**, exploring networks, and turning ideas into code.
 - 🎨 I love combining technology, hardware, and creative design in every project I build.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
 </div>
 
 ---
